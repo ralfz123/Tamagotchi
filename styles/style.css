@@ -1,0 +1,71 @@
+body {
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#blok {
+    height: 600px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+
+#spelregels {
+    font-size: 20px;
+}
+
+#berichtenblok {
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    width: 400px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+    color: black;
+    transition: 0.3s;
+    border-radius: 5px;
+    background-color: yellow;
+
+}
+
+
+#buttons {
+    list-style-type: none;
+    display: inline;
+    float: right;
+    display: inline-block;
+    margin-right: 250px;
+
+}
+
+button {
+    margin: 10px;
+    width: 100px;
+    padding: 10px 5px;
+    text-shadow: 0px 0.3px 0px grey;
+    border: 3px outset;
+    border-radius: 10px;
+    color: black;
+    font-size: 15px;
+    transition: 0.3s;
+    /* Bron: https://www.w3schools.com/howto/howto_css_transition_hover.asp */
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* interactie met de buttons */
+button:hover {
+    background-color: black;
+    color: white;
+}
