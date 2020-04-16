@@ -5,11 +5,11 @@
 /*eslint 'no-console': 0*/
 
 
-var afbeeldingenNeutraal = ['../images/dierNeutraal2-page-001Klein.jpg', '../images/dierNeutraal2-page-001.jpgMIddel', '../images/dierNeutraal2-page-001.jpg'];
+var afbeeldingenNeutraal = ['./images/dierNeutraal2-page-001Klein.jpg', './images/dierNeutraal2-page-001.jpgMIddel', './images/dierNeutraal2-page-001.jpg'];
 
-var afbeeldingenBlij = ['../images/dierBlij2-page-001Klein.jpg', '../images/dierBlij2-page-001middel.jpg', '../images/dierBlij2-page-001.jpg'];
+var afbeeldingenBlij = ['./images/dierBlij2-page-001Klein.jpg', './images/dierBlij2-page-001middel.jpg', './images/dierBlij2-page-001.jpg'];
 
-var afbeeldingenVerdrietig = ['../images/dierVerdrietig2-page-001Klein.jpg', '../images/dierVerdrietig2-page-001Middel.jpg', '../images/dierVerdrietig2-page-001.jpg'];
+var afbeeldingenVerdrietig = ['./images/dierVerdrietig2-page-001Klein.jpg', './images/dierVerdrietig2-page-001Middel.jpg', './images/dierVerdrietig2-page-001.jpg'];
 
 var plaatje = document.getElementById('neutraal');
 
