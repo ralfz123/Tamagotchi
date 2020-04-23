@@ -1,7 +1,7 @@
 # Tamagotchi
 <img src="https://images.unsplash.com/photo-1492044715545-15ddedd84e5e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80 " width="500" />
 
-[Source image](https://images.unsplash.com/photo-1492044715545-15ddedd84e5e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80 )
+[Source image](https://images.unsplash.com/photo-1492044715545-15ddedd84e5e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
  
 
 ## Inleiding Programmeren | 2018-2019 | Year 1 of CMD  
