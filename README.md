@@ -9,4 +9,4 @@
 This was the first course I came into contact with JavaScript. I only learned the (minimum) basics, but I enjoyed it very well because I can let something happens when an event occurs.
 
 ## 🖥 Live version
-[Here](https://ralfz123.github.io/inleidingProgrammeren_20182019_year1CMD/index.html) you can admire the live version.
+[Here](https://ralfz123.github.io/Tamagotchi/index.html) you can admire the live version.
